@@ -1,0 +1,259 @@
+[Rain]
+
+scene-0440	Rain, small crane, parking lot
+scene-0441	Rain, cross intersection, lane change, parking lot
+scene-0442	Rain, parked truck trailers, parked cars
+scene-0443	Rain, crane, parking lot, overtake stopped vehicle, ped
+scene-0444	Rain, parked vehicles, parking lot, bendy bus
+scene-0445	Rain, parking lot
+scene-0446	Rain, turn left, turn left
+scene-0447	Rain, parking lot, turn left
+scene-0448	Rain, parked trailers, parked trucks, fence, excavator, barriers, parked cars
+scene-0449	Rain, parking lot, turn left, barriers, traffic cones
+scene-0450	Rain, parking lot, many trucks, peds
+scene-0451	Rain, turn right, truck
+scene-0452	Rain, wet ground, bendy bus, parked car
+scene-0453	Rain, turn right, truck
+scene-0454	Rain, turn left, bike rack, parking lot
+scene-0455	Rain, bus, jaywalker, parking lot, parked bicycle, peds, bicycle rack
+scene-0456	Rain, parking lot, bicycle rack, turn right, crane
+scene-0457	Rain, turn right, parking lot, wait at intersection
+scene-0458	Rain, turn left, bus stop, parked cars
+scene-0459	Rain, parking lot, crane
+scene-0461	Rain, turn right, heavy truck with empty trailer
+scene-0462	Rain, cross intersection, parking lot, construction vehicle
+scene-0463	Rain, FedEx truck loaded on trailer, true cone loaded on a van, arrive at intersection, parked cars, several active trucks
+scene-0464	Rain, wait at intersection, ped crossing, towed car
+scene-0465	Rain, start at intersection, wet ground, traffic cone loaded on a truck, car overtaking us
+scene-0467	Rain, wait at intersection, flipped cone, construction, digger, ped
+scene-0468	Rain, wait at intersection, flipped cone, truck
+scene-0469	Rain, truck, cross intersection, ped, parked cars, bicyclist, sign trailer, bicycle rack
+scene-0471	Rain, parked cars, construction
+scene-0472	Rain, construction, wheel barrows
+scene-0474	Rain, start at intersection, bridge, railing
+scene-0475	Rain, bridge, peds shrinking due to raindrops, turn right
+scene-0476	Rain, turn right, peds, bridge, peds with umbrellas
+scene-0477	Rain, bridge, peds crossing, peds sidewalk stroller, wet ground
+scene-0478	Rain, waiting traffic light, oncoming bicyclist, bike rack, peds, reflections
+scene-0479	Rain, many peds, jaywalker, bicycle rack, parked cars
+scene-0480	Rain, parked cars, bicycle, parking lot
+scene-0566	Rain, turn right, parked cars, car turning around
+scene-0568	Rain, parked cars, parked truck on the lane
+scene-0570	Rain, wait at intersection, turn right, bus, truck, many parked trucks
+scene-0571	Rain, many parked trucks, cross intersection
+scene-0572	Rain, parked trailers, fence, parked cars, flipped barriers and cones
+scene-0573	Rain, parked cars, ped, parked trucks, construction vehicle
+scene-0574	Rain, turn left, parked cars, wait at intersection
+scene-0575	Rain, parked cars, cones, construction workers
+scene-0576	Rain, construction, ped on road, turn right
+scene-0577	Rain, turn right, bicycle rack, cross intersection, parking lot
+scene-0578	Rain, cross intersection
+scene-0580	Rain, long street, parked car
+scene-0582	Rain, parked cars, turn right, peds, wet road
+scene-0583	Rain, parking lot, stopped briefly at intersection
+scene-0584	Rain, turn right, exiting car, parking lot
+scene-0585	Rain, construction vehicles, cross intersection
+scene-0586	Rain, construction, parked car, close to intersection
+scene-0587	Rain, wait at intersection, truck
+scene-0588	Rain, turn right, parking lot
+scene-0589	Rain, turn right, cars waiting at intersection
+scene-0590	Rain, cluster of traffic cones, wait at intersection, bendy bus
+scene-0591	Rain, cross intersection, wait at intersection, statues
+scene-0592	Rain, wait at intersection, turn left, huge truck, scooter
+scene-0593	Rain, wait at intersection, peds crossing
+scene-0594	Rain, turn right, arrive at intersection, big trucks
+scene-0595	Rain, wait at intersection, peds, construction, ship, ped with bag
+scene-0596	Rain, wait at intersection, start at intersection, peds, large truck, dog, turn left
+scene-0597	Rain, parked cars, peds and children, parked truck
+scene-0598	Rain, construction, turn right, roundabout
+scene-0599	Rain, peds, construction, turn right, containers, cyclist
+scene-0600	Rain, parked busses, parking lot	
+scene-0625	Rain, peds, construction
+scene-0626	Rain, construction, bendy bus, roundabout
+scene-0627	Rain, industrial
+scene-0629	Rain, industrial, turn twice
+scene-0630	Rain, construction, fence, special construction vehicle, nature, crane, wait at intersection, parking lot, cross intersection
+scene-0632	Rain, industrial, turn right, turn right, parked cars
+scene-0633	Rain, industrial, parked trucks at parking lot
+scene-0634	Rain, industrial, parking lot, semi backing up
+scene-0635	Stationary in rain, semi backing up
+scene-0636	Rain, turn right, parked trucks
+scene-0637	Rain, parked cars, peds, jaywalker, water reflections, parked bicycle, ped with umbrella, cross intersection
+scene-0638	Rain, turn left, water reflections, jaywalker, parked cars
+scene-0639	Rain, arrive at intersection, parked vehicle
+scene-0640	Rain, cross bridge, truck
+scene-0641	Rain, cross intersection, parked cars, change lane, arrive at intersection
+scene-0642	Rain, parked cars, parked bicycle
+scene-0643	Rain, parked cars, bicycle rack, parked bicycle, person loading car, reflections, construction sign
+scene-0644	Rain, parked cars, parking lot, ped, parked truck, construction vehicle, sign trailer
+scene-0645	Rain, parked cars, wait at intersection, ped crossing crosswalk, turn right, truck
+scene-0646	Heavy, parking lot, truck, concrete barricades
+scene-0647	Rain, parked cars, parked buses
+scene-0648	Rain, cross intersection, reflections, bicycle rack, bus
+scene-0649	Rain, parked scooter, parked bicycle, wait at intersection
+scene-0650	Rain, reflections, parking lot, arrive at intersection
+scene-0651	Rain, start at intersection, parked cars, wait to turn, trash can, turn left
+scene-0652	Rain, wait at intersection, peds crossing, parked cars
+scene-0804	Rain, Truck, ped on sidewalk, cars, bus, bicycle, wait at intersection
+scene-0805	Parked cars, truck, trash can, bus, ped pushing bicycle, wait at intersection
+scene-0806	Rain, Wait at intersection, ped push a bicycle, cars, truck, peds on sidewalk, bus
+scene-0808	Rain, trucks, cars, ped crossing crosswalk, cross intersection, cones
+scene-0809	Truck, cars, cones, trailer, car overtaking us, bus
+scene-0810	Rain. Truck, buses, cars, peds, jaywalker, arrive at intersection
+scene-0811	Rain, Wait at intersection, trucks, cars, ped
+scene-0812	Truck, cars, peds on sidewalk, cones, cross intersection, changing lanes
+scene-0813	Rain, Wait at intersection, trucks, cars, peds on sidewalk
+scene-0815	Rain, wait at intersection, truck, turn right, parking lot, cross intersection, change lanes, parked bicycle, parked cars
+scene-0816	Rain, cones, cars, barrier, trailers, trucks, peds on sidewalk, cross roundabout, bird
+scene-0817	Trailer, parking lots, cones, bridge, trucks, peds
+scene-0819	Rain, trucks, parking lot, wait at intersection, turn right
+scene-0820	Rain, Cross intersection, cross intersection, parking lots, peds on sidewalk, low traffic density, parked cars
+scene-0821	Parking lot, parked trucks, trailers, cones, barrier, cross roundabout
+scene-0822	Rain, parked cars, peds on sidewalk, construction, cross intersection	
+scene-0868	Rain, turn right, bridge, peds, ships, ped with umbrella
+scene-0869	Rain, peds, bridge, parked cars, parking lot, bicycle rack, jaywalker, parked bicycle
+scene-0870	Rain, waiting at red light, parked cars, peds
+scene-0871	Rain, parked cars, parked bicycle, peds, animal, waiting at red light
+scene-0872	Rain, peds, truck, wait at red light, parked cars, parking lot, parked bicycle
+scene-0873	Rain, waiting at intersection, jaywalkers, peds, parking lot, bus
+scene-0875	Rain, wait at intersection, construction, truck turning
+scene-0876	Rain, construction site, cones, barriers, construction worker, parked cars, parking lot, bridge, peds
+scene-0877	Rain, parked cars, barriers, cones, containers, truck, person standing on truck, ped, construction site, construction vehicle, parking lot, bus
+scene-0878	Rain, bus, parked cars, parked scooter, parked bicycle, waiting at intersection
+scene-0880	Rain, parked cars, parked bicycle, parked scooter, barriers, fence, bus, cones, turn left, peds
+scene-0882	Rain, wait at intersection, truck, parked cars, peds, parking lot, turn left
+scene-0883	Rain, peds, parking lot, truck, waiting at intersection
+scene-0884	Rain, jaywalker, truck, parked cars, stop at red light
+scene-0885	Rain, truck, peds, parked cars, ships
+scene-0886	Rain, peds, truck, ships, cones, parked cars, barriers, arrive at intersection
+scene-0887	Rain, truck, peds, waiting at intersection
+scene-0888	Rain, peds, truck, cones, parked cars, turn right, parking lot, animal
+scene-0889	Rain, wait at intersection, bicycle racks, peds, ped with umbrella, ped crossing crosswalk, ped with bag, parking lot, truck
+scene-0890	Rain, parking lot, parked cars, truck, wait at intersection, parked bicycles, peds, barriers
+scene-0891	Rain, parking lot, parked bicycles, parked cars, bicycle rack, turn left, peds, ped crossing crosswalk, cross intersection, barriers
+scene-0892	Rain, parked cars, barriers, peds, parked bicycle, parked scooter, bicycle rack, parking lot, crossing intersection
+scene-0893	Rain, parked cars, peds, cross intersection, cones, ped crossing crosswalk, parked bicycles, cones
+scene-0894	Rain, parked cars, peds, cones, jaywalker, parked bicycle, turn left
+scene-0895	Rain, parked cars, cones, peds, car leaving parking garage, cross intersection, construction site, construction vehicle, barrier
+scene-0896	Rain, parked cars, peds, construction, fence, flooded road, construction vehicle, truck, parked motorcycles, narrow street, bus, parking lo
+scene-0897	Rain, parked cars, parking lot, ped crossing crosswalk, peds
+scene-0898	Rain, parked cars, peds, peds crossing crosswalk, stop at red light
+scene-0899	Rain, parked cars, peds, cross intersection, parking lot, truck, parked bicycle
+scene-0900	Rain, parked cars, peds, parked bicycle, parking lot, truck, turn left
+scene-0901	Rain, parked cars, parking lot, peds, ped crossing crosswalk
+scene-0902	Rain, parked cars, parked bicycle, parked scooter, bus, cones, peds
+scene-0903	Rain, wait at intersection, bicycle rack, parked cars, bus, peds, ped crossing crosswalk
+scene-0904	Rain, parked cars, bus, peds, barriers, cross intersection, ped crossing crosswalk, construction site, cones, scooter, arrive at intersection
+scene-0905	Rain, construction site, barriers, cones, peds crossing crosswalk, ship, parked cars, truck, peds, large truck
+scene-0906	Rain, parked cars, parked bicycle, peds, cones, cross intersection, parking lot, turning right
+scene-0907	Rain, turn right, parked cars, parking lot, peds, bus, truck, waiting
+scene-0908	Rain, parked cars, truck, parked scooter, cones, ped
+scene-0909	Rain, ped, cones, parked cars, construction site, construction vehicle, parking lot, barriers
+scene-0910	Rain, parked cars, sign trailer, construction, construction vehicle, crane, cones, truck, ped with umbrella, cross intersection, bicycle, peds crossing crosswalk, bicyclist, potential jaywalkers
+scene-0911	Rain, parked cars, trucks, peds crossing crosswalk, peds, parked bicycles, bicycle rack
+scene-0912	Rain, parked cars, trucks, parking lot, construction vehicle
+scene-0913	Rain, parked cars, semi trailers, barriers, construction vehicle, parking lot, parked buses
+scene-0914	Rain, parking lot, bicycle rack, buses, jaywalker, parked scooter, arrive at intersection
+scene-0915	Rain, parked cars, turn left, peds, bus, truck, ped crossing crosswalk, suitcase, cones
+
+
+[Night]
+
+scene-0992	Night, ped in dark, parked cars
+scene-0994	Night, bump, ped in dark, low traffic, roundabout
+scene-0995	Night, ped, bus, slope, flyover
+scene-0996	Night, gate, bus, bus stop, cyclist, peds
+scene-0997	Night, bridge, oncoming cars, scooter, roundabout'}
+scene-0998	Night, roundabout, bus, ped crossing crosswalk
+scene-0999	Night, ped, slope, distant cars, view down
+scene-1000	Night, turn right, peds, lights
+scene-1001	Night, bump, bus, peds, lights
+scene-1002	Night, lane change, bump, turn left, peds, peds push stroller, cars
+scene-1003	Night, ped running, peds, bus
+scene-1004	Night, many peds, parking lots
+scene-1005	Night, bus, peds, crosswalk, parking lot
+scene-1006	Night, bus, peds, parked cars, sitting ped
+scene-1007	Night, truck, turn left
+scene-1008	Night, peds in dark, lights, scooters, parking garage
+scene-1009	Night, peds on sidewalk, slope, motorcycles, parking garage, parked cars
+scene-1010	Night, bus, peds wearing dark clothes, low traffic
+scene-1011	Night, bus, parked cars, peds
+scene-1012	Night, peds, cars
+scene-1013	Night, cars, bus
+scene-1014	Night, bump, cars, turn right, bus, peds, ped in dark
+scene-1015	Night, peds, bus stop, turn left, low traffic, bump
+scene-1016	Night, peds, bus stop, bump, ped crossing crosswalk, bus
+scene-1017	Night, ped, cars, bump, scooter, congestion
+scene-1018	Night, turn right, cars, bus, bus stop, scooter
+scene-1019	Night, scooter, light, peds crossing crosswalk, bus stop
+scene-1020	Night, peds, bus, bus stop
+scene-1021	Night, peds in dark, arrive at intersection, bus
+scene-1022	Night, bus, bump, scooter, peds, very dark, lights
+scene-1023	Night, bus, wait
+scene-1024	Night, peds, bus
+scene-1025	Night, peds, parked cars, cyclist
+scene-1044	Night, motorcycles, dense traffic, congestion, arrive at intersection
+scene-1045	Night, wait at intersection, dense traffic, motorcycles, truck
+scene-1046	Night, wait at intersection, dense traffic, motorcycle, bus
+scene-1047	Night, dense traffic, congestion, motorcycles
+scene-1048	Night, dense traffic, congestion, motorcycle, turn right
+scene-1049	Night, bump, motorcycle, bus, high speed, trash bins, residential area
+scene-1050	Night, many trash cans, followed by scooter, bus, truck, parked bicycle, bus stop, motorcycle, high speed
+scene-1051	Night, bus, motorcycle, bus stop
+scene-1052	Night, bump, parked car, trash bin
+scene-1053	Night, rain, bump, peds, congestion, parked car
+scene-1054	Night, turn left, bumps, lightning
+scene-1055	Night, bump, dark, ped in dark
+scene-1056	Night, construction, trash bins, bump, residential area
+scene-1057	Night, trash cans, dark, nature, slope, bump, car, low traffic, high speed
+scene-1058	Night, nature, car, turn, peds in sidewalk, trash bin
+scene-1059	Night, residential, car turning
+scene-1060	Night, rain, turn, ped in dark
+scene-1062	Night, difficult lighting, parked bicycle, wait at intersection, construction
+scene-1063	Night, bump, ped, difficult lighting, trash bins, residential area
+scene-1064	Night, trash cans, wait for scooter, turn right, parking lot
+scene-1065	Rain, Night, bump, motorcycle, difficult lighting, overtake parked car
+scene-1066	Night, bump, scooter, difficult lighting
+scene-1067	Night, rain, bump, ped in dark, arrive at intersection
+scene-1068	Night, wait at intersection, motorcycle, turn left
+scene-1069	Night, truck, congestion, parked bicycle
+scene-1070	Night, congestion, peds, motorcycle
+scene-1071	Night, scooters, peds, parked bicycle, bus stop, cross intersection,  ped with bag near road
+scene-1072	Night, bus stop, scooter, trash can pushable / pullables, residential
+scene-1073	Night, scooters, turn left, dense traffic
+scene-1074	Night, rain, high speed, bus stop, bus, peds, parked bicycle
+scene-1075	Night, bus, parked cars, bus stop, peds, trash cans, high speed
+scene-1076	Night, trash cans, scooter, ped, turn left
+scene-1077	Night, big street, bus stop, high speed, construction vehicle
+scene-1078	Night, big street, high speed, scooters, bus, lane change
+scene-1079	Night, big street, high speed, arrive at intersection
+scene-1080	Night, big street, dense traffic, scooters
+scene-1081	Night, rain, big street, congestion, cars, scooter, arrive at intersection
+scene-1082	Night, big street, wait at intersection
+scene-1083	Night, big street, bus, scooter, turn right
+scene-1084	Night, scooter, peds, bus stop, parked cars, wait
+scene-1085	Night, many peds, parked bicycles, turn left, parked scooters, congestion, peds with bags, cars in parking garage on second floor, trash cans
+scene-1086	Night, bumps, parked car, peds, trash cans
+scene-1087	Night, residential area, low traffic, turn right, bump, ped in dark, parked bicycle
+scene-1088	Night, peds, trash cans, ped walking dog, turn right, parked car
+scene-1089	Night, turn left, bump, trash cans, turn left, ped in dark
+scene-1090	Night, trash cans, parked car, ped in dark, reflections in water
+scene-1091	Night, parked cars, peds, turn right, dog, jaywalkers, trash bins
+scene-1092	Night, many peds, many trash cans, ped with bag, stopped taxi, delivery scooter, arrive at intersection
+scene-1093	Night, wait at intersection, peds crossing crosswalk, peds sidewalk, personal mobility device
+scene-1094	Night, after rain, many peds, PMD, ped with bag, jaywalker, truck, scooter
+scene-1095	Night, rain, lane change, cross intersection, scooter, bus, arrive at intersection
+scene-1096	Night, wait at intersection, peds crossing crosswalk, scooter
+scene-1097	Night, scooter, start at intersection, turn right, ped crossing crosswalk, bus
+scene-1098	Night, peds, scooter, bus, waiting at intersection
+scene-1099	Night, peds in sidewalk, peds cross crosswalk, scooter, PMD, difficult lighting
+scene-1100	Night, peds in sidewalk, peds cross crosswalk, scooter, PMD, difficult lighting
+scene-1101	Night, buses, peds, rain, right turn
+scene-1102	Night, rain, scooter, cars, high speed, cross intersection, arrive at intersection
+scene-1104	Night, truck, rain, cross intersection
+scene-1105	Night, ped, avoid parked car, parked cars
+scene-1106	Night, rain, high speed, scooter, bus stop, low traffic, bus
+scene-1107	Night, rain, high speed, scooter, dense traffic at other lane
+scene-1108	Night, wet front camera, rain, bus, wait at intersection, scooters
+scene-1109	Night, rain, bus, lightning
+scene-1110	Night, rain, bus, turn right, peds, bus stop
